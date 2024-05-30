@@ -1,5 +1,4 @@
-## Olá! sou o Álef Emanoel 👋 
-
+## Olá, bem-vindo ao meu Github! 👋 
 
 ![Alef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alefz1&show_icons=true&theme=dracula)
 
